@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795253491257",
+    "firebase_url": "https://lockitup-186a2.firebaseio.com",
+    "project_id": "lockitup-186a2",
+    "storage_bucket": "lockitup-186a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795253491257:android:bc4e8251ffc5900a14efe8",
+        "android_client_info": {
+          "package_name": "com.altechsolutions.lockitup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795253491257-pn5400ggna8cpo9ikjakcocetfit5phk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXxlU398V7py_pF3tWfWuyAkQLppRk81w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795253491257-pn5400ggna8cpo9ikjakcocetfit5phk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
