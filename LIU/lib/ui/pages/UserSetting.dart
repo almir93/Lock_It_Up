@@ -1,9 +1,12 @@
+import 'package:Lock_It_Up/models/user.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:Lock_It_Up/ui/pages/mainProfile.dart';
 
 
 class SettingMainTinder extends StatefulWidget {
+  final String userID;
+  SettingMainTinder(this.userID);
   @override
   _SettingMainTinderState createState() => _SettingMainTinderState();
 }
@@ -200,7 +203,7 @@ class _SettingMainTinderState extends State<SettingMainTinder> {
           onPressed: () {
             Navigator.push(
              context,
-             MaterialPageRoute(builder: (context) => ProfileSetting()),
+             MaterialPageRoute(builder: (context) => EditProfile(widget.userID)),
                  );
                   }
         ),

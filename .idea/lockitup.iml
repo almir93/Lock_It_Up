@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/LIU/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/LIU/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/LIU/build" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_tinder_clone-master/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_tinder_clone-master/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/flutter_tinder_clone-master/build" />
@@ -11,5 +14,14 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
     <orderEntry type="library" name="Dart Packages" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/src/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

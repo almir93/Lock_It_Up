@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef5c224e-cbc1-44fc-aa78-c0e3c19738f2" name="Default Changelist" comment="" />
+    <list default="true" id="ef5c224e-cbc1-44fc-aa78-c0e3c19738f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lockitup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lockitup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIU/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LIU/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIU/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LIU/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIU/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/LIU/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIU/lib/ui/pages/UserSetting.dart" beforeDir="false" afterPath="$PROJECT_DIR$/LIU/lib/ui/pages/UserSetting.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIU/lib/ui/pages/mainProfile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/LIU/lib/ui/pages/mainProfile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIU/lib/ui/widgets/tabs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/LIU/lib/ui/widgets/tabs.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIU/pubspec.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +27,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dfCfmLixdnXQZWUTY52HzFIu23" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,9 +39,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/flutter_app222" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LIU/android" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="FlutterRunConfigurationType" factoryName="Flutter" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/LIU/lib/main.dart" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -41,21 +67,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="225" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592807237502">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601518478313">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="225" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1592807237502" />
-    <state x="550" y="188" key="FileChooserDialogImpl" timestamp="1592807806378">
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1601518478313" />
+    <state x="498" y="222" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1601518470425">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="550" y="188" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592807806378" />
-    <state x="279" y="76" key="SettingsEditor" timestamp="1592807690595">
+    <state x="498" y="222" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1601518470425" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1601518871462">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="279" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592807690595" />
-    <state x="466" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1592807706626">
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1601518871462" />
+    <state width="1476" height="221" key="GridCell.Tab.0.bottom" timestamp="1601526047729">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="466" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1592807706626" />
+    <state width="1476" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601526047729" />
+    <state width="1476" height="221" key="GridCell.Tab.0.center" timestamp="1601526047728">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1476" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601526047728" />
+    <state width="1476" height="221" key="GridCell.Tab.0.left" timestamp="1601526047728">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1476" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601526047728" />
+    <state width="1476" height="221" key="GridCell.Tab.0.right" timestamp="1601526047729">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1476" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601526047729" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1601518116117">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601518116117" />
   </component>
 </project>

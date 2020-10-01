@@ -26,7 +26,7 @@ class Tabs extends StatelessWidget {
       Messages(
         userId: userId,
       ),
-      SettingMainTinder(),
+      SettingMainTinder(userId),
 
     ];
 
